@@ -1,0 +1,41 @@
+---
+:all:
+  :public_id: 4982513
+  :templates_path: base/images/templates
+  :images_path: base/images/generated_images
+:aries.jpg:
+  :public_id: 53286930
+  :rss: aries
+:taurus.jpg:
+  :public_id: 53286499
+  :rss: taurus
+:gemini.jpg:
+  :public_id: 53286639
+  :rss: gemini
+:cancer.jpg:
+  :public_id: 53286777
+  :rss: cancer
+:leo.jpg:
+  :public_id: 53286238
+  :rss: leo
+:virgo.jpg:
+  :public_id: 53286540
+  :rss: virgo
+:libra.jpg:
+  :public_id: 53286692
+  :rss: libra
+:scorpio.jpg:
+  :public_id: 53286842
+  :rss: scorpio
+:sagittarius.jpg:
+  :public_id: 53286444
+  :rss: sagittarius
+:capricorn.jpg:
+  :public_id: 53286588
+  :rss: capricorn
+:aquarius.jpg:
+  :public_id: 53286737
+  :rss: aquarius
+:pisces.jpg:
+  :rss: pisces
+  :public_id: 53286886
