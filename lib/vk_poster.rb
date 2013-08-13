@@ -1,6 +1,5 @@
 class VkPoster
   require 'vkontakte_api'
-  include VKAppSettings
   attr_reader :post_msg
 
   def initialize
